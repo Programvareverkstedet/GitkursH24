@@ -1,5 +1,8 @@
 # Gitkurs23
 
+fix merge conflicts
+[fix merge conflicts guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+
 (With changes)
 
 ### [Kommandolinje "Cheat sheet"](https://education.github.com/git-cheat-sheet-education.pdf)
