@@ -1,5 +1,7 @@
 # Gitkurs23
 
+(With changes)
+
 ### [Kommandolinje "Cheat sheet"](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### "Workshop"
